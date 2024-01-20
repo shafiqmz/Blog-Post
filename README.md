@@ -1,4 +1,3 @@
-
 Blog Post Assignment.
 Author Information:
 Roll Number: 2K20/CSM/89.
